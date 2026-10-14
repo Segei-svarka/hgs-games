@@ -1,0 +1,3 @@
+HGS_GAMES_CATALOG
+Snake|https://raw.githubusercontent.com/Segei-svarka/hgs-games/main/snake.hgs
+Pong|https://raw.githubusercontent.com/Segei-svarka/hgs-games/main/pong.hgs
